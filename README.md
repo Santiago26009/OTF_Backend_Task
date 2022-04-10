@@ -13,3 +13,7 @@ This project was generated with Node JS v17.8.0 and Hubspot.
 
 If you want to test the server, you can go to Postman to check the endpoints.
 For a quick test, configure a GET request with `localhost:3000/api/v1/users/`. The output will be a json with every user in Developer_test_3 Hub Database.
+
+## Frontend Development
+
+Go to `https://github.com/Santiago26009/OTF_Frontend_Task` repository and use git clone to download the project. Look at the README file and follow the instructions to run the frontend. Notice that the backend needs to be running first so you can see the users and perform the CRUD actions.
